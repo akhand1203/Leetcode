@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/akhand1203/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhand1203/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/akhand1203/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhand1203/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
