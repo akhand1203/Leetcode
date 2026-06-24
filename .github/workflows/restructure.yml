@@ -1,0 +1,79 @@
+name: Restructure Problems Folder
+
+on:
+  workflow_dispatch:
+
+jobs:
+  restructure:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Restructure problems into numbered folders
+        run: |
+          declare -A MAPPING
+          MAPPING["3sum"]="0015-3sum"
+          MAPPING["3sum_closest"]="0016-3sum-closest"
+          MAPPING["contiguous_array"]="0525-contiguous-array"
+          MAPPING["count_the_digits_that_divide_a_number"]="2520-count-the-digits-that-divide-a-number"
+          MAPPING["daily_temperatures"]="0739-daily-temperatures"
+          MAPPING["delete_the_middle_node_of_a_linked_list"]="2095-delete-the-middle-node-of-a-linked-list"
+          MAPPING["find_pivot_index"]="0724-find-pivot-index"
+          MAPPING["find_the_duplicate_number"]="0287-find-the-duplicate-number"
+          MAPPING["first_unique_character_in_a_string"]="0387-first-unique-character-in-a-string"
+          MAPPING["fruit_into_baskets"]="0904-fruit-into-baskets"
+          MAPPING["happy_number"]="0202-happy-number"
+          MAPPING["insert_interval"]="0057-insert-interval"
+          MAPPING["interval_list_intersections"]="0986-interval-list-intersections"
+          MAPPING["linked_list_cycle"]="0141-linked-list-cycle"
+          MAPPING["linked_list_cycle_ii"]="0142-linked-list-cycle-ii"
+          MAPPING["longest_palindrome"]="0409-longest-palindrome"
+          MAPPING["longest_repeating_character_replacement"]="0424-longest-repeating-character-replacement"
+          MAPPING["longest_substring_without_repeating_characters"]="0003-longest-substring-without-repeating-characters"
+          MAPPING["max_consecutive_ones_iii"]="1004-max-consecutive-ones-iii"
+          MAPPING["maximum_absolute_sum_of_any_subarray"]="1749-maximum-absolute-sum-of-any-subarray"
+          MAPPING["maximum_number_of_balloons"]="1426-maximum-number-of-balloons"
+          MAPPING["maximum_product_subarray"]="0152-maximum-product-subarray"
+          MAPPING["maximum_subarray_sum_with_one_deletion"]="1186-maximum-subarray-sum-with-one-deletion"
+          MAPPING["maximum_sum_circular_subarray"]="0918-maximum-sum-circular-subarray"
+          MAPPING["merge_intervals"]="0056-merge-intervals"
+          MAPPING["middle_of_the_linked_list"]="0876-middle-of-the-linked-list"
+          MAPPING["minimum_size_subarray_sum"]="0209-minimum-size-subarray-sum"
+          MAPPING["minimum_window_substring"]="0076-minimum-window-substring"
+          MAPPING["next_greater_element_ii"]="0503-next-greater-element-ii"
+          MAPPING["number_of_steps_to_reduce_a_number_to_zero"]="1342-number-of-steps-to-reduce-a-number-to-zero"
+          MAPPING["ransom_note"]="0383-ransom-note"
+          MAPPING["remove_all_adjacent_duplicates_in_string"]="1047-remove-all-adjacent-duplicates-in-string"
+          MAPPING["remove_all_adjacent_duplicates_in_string_ii"]="1209-remove-all-adjacent-duplicates-in-string-ii"
+          MAPPING["remove_duplicates_from_sorted_array"]="0026-remove-duplicates-from-sorted-array"
+          MAPPING["reverse_linked_list"]="0206-reverse-linked-list"
+          MAPPING["reverse_linked_list_ii"]="0092-reverse-linked-list-ii"
+          MAPPING["reverse_nodes_in_k-group"]="0025-reverse-nodes-in-k-group"
+          MAPPING["sort_colors"]="0075-sort-colors"
+          MAPPING["squares_of_a_sorted_array"]="0977-squares-of-a-sorted-array"
+          MAPPING["subarray_product_less_than_k"]="0713-subarray-product-less-than-k"
+          MAPPING["subarray_sum_equals_k"]="0560-subarray-sum-equals-k"
+          MAPPING["subarray_sums_divisible_by_k"]="0974-subarray-sums-divisible-by-k"
+          MAPPING["swap_nodes_in_pairs"]="0024-swap-nodes-in-pairs"
+          MAPPING["two_sum_ii_-_input_array_is_sorted"]="0167-two-sum-ii-input-array-is-sorted"
+          MAPPING["valid_parentheses"]="0020-valid-parentheses"
+
+          for OLD in "${!MAPPING[@]}"; do
+            NEW="${MAPPING[$OLD]}"
+            if [ -d "problems/$OLD" ]; then
+              echo "Moving problems/$OLD → $NEW/"
+              mkdir -p "$NEW"
+              cp -r "problems/$OLD/." "$NEW/"
+            fi
+          done
+
+          rm -rf problems/
+          echo "Done! All problems restructured."
+
+      - name: Commit restructured folders
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Restructure: rename problems/ to numbered LeetHub-style folders"
+          git push
