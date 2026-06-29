@@ -36,23 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/akhand1203/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0141-linked-list-cycle](https://github.com/akhand1203/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
-| [0142-linked-list-cycle-ii](https://github.com/akhand1203/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
-| [0383-ransom-note](https://github.com/akhand1203/Leetcode/tree/main/0383-ransom-note/) | Easy |
-| [0387-first-unique-character-in-a-string](https://github.com/akhand1203/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
-| [0409-longest-palindrome](https://github.com/akhand1203/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
-| [0424-longest-repeating-character-replacement](https://github.com/akhand1203/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
-| [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
-| [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
+
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +127,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhand1203/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -189,6 +174,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhand1203/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,15 +183,44 @@
 | [0056-merge-intervals](https://github.com/akhand1203/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/akhand1203/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/akhand1203/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/akhand1203/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/akhand1203/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/akhand1203/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/akhand1203/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/akhand1203/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
