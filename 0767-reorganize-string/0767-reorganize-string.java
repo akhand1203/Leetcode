@@ -1,53 +1,65 @@
 class Solution {
     public String reorganizeString(String s) {
-        int n = s.length();
+
         int[] freq = new int[26];
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
+
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
         class Pair {
             int first;
             char second;
 
-            Pair(int f, char s) {
-                first = f;
-                second = s;
+            Pair(int first, char second) {
+                this.first = first;
+                this.second = second;
             }
         }
+
         PriorityQueue<Pair> pq = new PriorityQueue<>(
-                (x, y) -> y.first - x.first);
+            (a, b) -> b.first - a.first
+        );
 
         for (int i = 0; i < 26; i++) {
             if (freq[i] > 0) {
-                pq.add(new Pair(freq[i], (char) (i + 'a')));
+                pq.offer(new Pair(freq[i], (char)(i + 'a')));
             }
         }
 
         StringBuilder res = new StringBuilder();
 
-        while (pq.size() >= 2) {
-            Pair first = pq.poll();
-            Pair second = pq.poll();
+        while (!pq.isEmpty()) {
 
-            res.append(first.second);
-            res.append(second.second);
+            Pair p = pq.poll();
 
-            first.first--;
-            second.first--;
+            if (res.length() == 0 ||
+                res.charAt(res.length() - 1) != p.second) {
 
-            if (first.first > 0)
-                pq.add(first);
-            if (second.first > 0)
-                pq.add(second);
-        }
+                res.append(p.second);
+                p.first--;
 
-        if (!pq.isEmpty()) {
-            Pair last = pq.poll();
-            if (last.first > 1) {
-                return "";
+                if (p.first > 0) {
+                    pq.offer(p);
+                }
+
+            } else {
+
+                if (pq.isEmpty()) {
+                    return "";
+                }
+
+                Pair q = pq.poll();
+
+                res.append(q.second);
+                q.first--;
+
+                if (q.first > 0) {
+                    pq.offer(q);
+                }
+
+                pq.offer(p);
             }
-            res.append(last.second);
         }
 
         return res.toString();
