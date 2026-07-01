@@ -114,6 +114,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -170,6 +171,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Heap (Priority Queue)
@@ -178,6 +180,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -230,5 +233,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/akhand1203/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
