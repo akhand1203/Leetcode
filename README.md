@@ -80,10 +80,7 @@
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akhand1203/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+
 <!--LeetCode Topics End-->
 
 <!---LeetCode Topics Start-->
@@ -235,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akhand1203/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -251,9 +249,15 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhand1203/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
