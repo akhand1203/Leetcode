@@ -65,13 +65,7 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/akhand1203/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0152-maximum-product-subarray](https://github.com/akhand1203/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
-| [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
-| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akhand1203/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
-| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+
 
 
 ## Math
@@ -213,6 +207,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/akhand1203/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/akhand1203/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -239,6 +234,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/akhand1203/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -260,4 +256,8 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
