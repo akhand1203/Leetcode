@@ -68,12 +68,7 @@
 
 
 
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
-| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
-| [2520-count-the-digits-that-divide-a-number](https://github.com/akhand1203/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+
 
 <!--LeetCode Topics End-->
 
@@ -178,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhand1203/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/akhand1203/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akhand1203/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -206,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhand1203/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -259,5 +256,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/akhand1203/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
