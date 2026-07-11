@@ -19,12 +19,12 @@ class Solution {
             ans = root;
             return;
         }
-        int lo = Math.min(p.val, q.val);
-        int hi = Math.max(p.val, q.val);
+        // int lo = Math.min(p.val, q.val);
+        // int hi = Math.max(p.val, q.val);
 
-        if (root.val < lo) {
+        if (root.val < p.val) {
             fun(root.right, p, q);
-        } else if (root.val > hi) {
+        } else if (root.val >q.val) {
             fun(root.left, p, q);
         } else {
             ans = root;
@@ -33,7 +33,12 @@ class Solution {
     }
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        fun(root, p, q);
-        return ans;
+        if(p.val<q.val){
+            fun(root,p,q);
+        }
+        else{
+            fun(root,q,p);
+        }
+         return ans;
     }
 }
