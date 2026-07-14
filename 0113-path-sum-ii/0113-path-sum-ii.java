@@ -16,34 +16,27 @@
 class Solution {
     List<List<Integer>> res = new ArrayList<>();
 
-    void fun(TreeNode root, int sum, List<Integer> diary, int target) {
-        sum = sum + root.val;
-        diary.add(root.val);
-
-        if (root.left == null && root.right == null) {
-            if (sum == target) {
-                res.add(new ArrayList<>(diary));
-            }
-            diary.remove(diary.size() - 1);
+    void fun(TreeNode root, int targetSum, List<Integer> path){
+        if(root == null){
             return;
         }
+        path.add(root.val);
+        targetSum = targetSum - root.val;
 
-        if (root.left != null) {
-            fun(root.left, sum, diary, target);
-        }
-        if (root.right != null) {
-            fun(root.right, sum, diary, target);
+        if(root.left == null && root.right == null){
+            if(targetSum == 0){
+                res.add(new ArrayList<>(path));
+            }
+        } else {
+            fun(root.left, targetSum, path);
+            fun(root.right, targetSum, path);
         }
 
-        diary.remove(diary.size() - 1);
-        return;
+        path.remove(path.size() - 1);
     }
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        if (root == null) {
-            return res;
-        }
-        fun(root, 0, new ArrayList<>(), targetSum);
+        fun(root, targetSum, new ArrayList<>());
         return res;
     }
 }
