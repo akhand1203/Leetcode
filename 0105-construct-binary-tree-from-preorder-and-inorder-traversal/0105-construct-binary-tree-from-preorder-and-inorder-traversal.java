@@ -24,8 +24,8 @@ class Solution {
         return fun(preorder, 0, inorder.length - 1);
     }
 
-    TreeNode fun(int[] preorder, int inStart, int inEnd) {
-        if (inStart > inEnd) {
+    TreeNode fun(int[] preorder, int low, int high) {
+        if (low > high) {
             return null;
         }
 
@@ -35,8 +35,8 @@ class Solution {
 
         int inIndex = inorderMap.get(rootVal);
 
-        root.left = fun(preorder, inStart, inIndex - 1);
-        root.right = fun(preorder, inIndex + 1, inEnd);
+        root.left = fun(preorder, low, inIndex - 1);
+        root.right = fun(preorder, inIndex + 1, high);
 
         return root;
     }
