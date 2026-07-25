@@ -199,6 +199,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -208,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/akhand1203/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -223,6 +225,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
