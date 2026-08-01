@@ -25,11 +25,7 @@
 
 
 
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
-| [0739-daily-temperatures](https://github.com/akhand1203/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+
 
 
 
@@ -49,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/akhand1203/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/akhand1203/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/akhand1203/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akhand1203/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -214,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/akhand1203/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/akhand1203/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -249,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -364,6 +363,7 @@
 | [0015-3sum](https://github.com/akhand1203/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/akhand1203/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/akhand1203/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/akhand1203/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/akhand1203/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -401,4 +401,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/akhand1203/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
