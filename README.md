@@ -65,6 +65,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/akhand1203/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
