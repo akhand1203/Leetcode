@@ -55,6 +55,7 @@
 | [0485-max-consecutive-ones](https://github.com/akhand1203/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/akhand1203/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -150,6 +151,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/akhand1203/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/akhand1203/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/akhand1203/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -199,6 +201,7 @@
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akhand1203/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Dynamic Programming
@@ -429,9 +432,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/akhand1203/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/akhand1203/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
