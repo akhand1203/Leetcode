@@ -4,13 +4,7 @@
 
 
 
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0724-find-pivot-index](https://github.com/akhand1203/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
-| [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+
 
 
 
@@ -77,6 +71,7 @@
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akhand1203/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akhand1203/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -104,6 +99,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/akhand1203/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,4 +424,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/akhand1203/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
