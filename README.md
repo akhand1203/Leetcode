@@ -2,16 +2,7 @@
 # LeetCode Topics
 
 
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0209-minimum-size-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-| [0424-longest-repeating-character-replacement](https://github.com/akhand1203/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
-| [0713-subarray-product-less-than-k](https://github.com/akhand1203/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
-| [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/akhand1203/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+
 
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -60,6 +51,7 @@
 | [0200-number-of-islands](https://github.com/akhand1203/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhand1203/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/akhand1203/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -135,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
@@ -408,4 +401,27 @@
 | [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/akhand1203/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhand1203/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/akhand1203/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/akhand1203/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/akhand1203/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/akhand1203/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
