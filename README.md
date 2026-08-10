@@ -80,6 +80,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/akhand1203/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/akhand1203/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -207,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/akhand1203/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -466,4 +468,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhand1203/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
