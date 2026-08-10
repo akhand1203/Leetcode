@@ -74,6 +74,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akhand1203/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akhand1203/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akhand1203/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -96,6 +97,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/akhand1203/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/akhand1203/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akhand1203/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akhand1203/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
