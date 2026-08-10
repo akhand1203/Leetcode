@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/akhand1203/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/akhand1203/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/akhand1203/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -80,6 +81,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/akhand1203/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/akhand1203/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
