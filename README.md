@@ -302,6 +302,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhand1203/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/akhand1203/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/akhand1203/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/akhand1203/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -536,6 +537,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/akhand1203/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/akhand1203/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/akhand1203/Leetcode/tree/main/0901-online-stock-span/) | Medium |
