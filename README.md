@@ -215,6 +215,7 @@
 | [0647-palindromic-substrings](https://github.com/akhand1203/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akhand1203/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akhand1203/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/akhand1203/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
@@ -228,6 +229,7 @@
 | [0410-split-array-largest-sum](https://github.com/akhand1203/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@
 | [0739-daily-temperatures](https://github.com/akhand1203/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akhand1203/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/akhand1203/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akhand1203/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/akhand1203/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/akhand1203/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -535,4 +538,8 @@
 | [0735-asteroid-collision](https://github.com/akhand1203/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akhand1203/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/akhand1203/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
