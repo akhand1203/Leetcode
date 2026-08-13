@@ -246,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/akhand1203/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/akhand1203/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhand1203/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -278,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhand1203/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/akhand1203/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/akhand1203/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
