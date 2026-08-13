@@ -247,6 +247,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/akhand1203/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/akhand1203/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/akhand1203/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/akhand1203/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhand1203/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -266,6 +267,7 @@
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/akhand1203/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/akhand1203/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/akhand1203/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/akhand1203/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -581,4 +583,8 @@
 | [0032-longest-valid-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/akhand1203/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
