@@ -290,6 +290,7 @@
 | [0206-reverse-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/akhand1203/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/akhand1203/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -329,6 +330,7 @@
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/akhand1203/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/akhand1203/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/akhand1203/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/akhand1203/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/akhand1203/Leetcode/tree/main/0394-decode-string/) | Medium |
@@ -467,6 +469,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhand1203/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akhand1203/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/akhand1203/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0321-create-maximum-number](https://github.com/akhand1203/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
@@ -499,6 +502,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akhand1203/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhand1203/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0707-design-linked-list/) | Medium |
