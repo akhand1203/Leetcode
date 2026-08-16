@@ -302,6 +302,7 @@
 | [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/akhand1203/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +363,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/akhand1203/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1544-make-the-string-great](https://github.com/akhand1203/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/akhand1203/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -536,6 +538,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/akhand1203/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +557,7 @@
 | [0901-online-stock-span](https://github.com/akhand1203/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/akhand1203/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhand1203/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
