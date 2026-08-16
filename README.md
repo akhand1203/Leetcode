@@ -264,6 +264,7 @@
 | [0224-basic-calculator](https://github.com/akhand1203/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/akhand1203/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/akhand1203/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/akhand1203/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -343,6 +344,7 @@
 | [0321-create-maximum-number](https://github.com/akhand1203/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0394-decode-string](https://github.com/akhand1203/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/akhand1203/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/akhand1203/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/akhand1203/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/akhand1203/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/akhand1203/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -526,6 +528,7 @@
 | [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/akhand1203/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
