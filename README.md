@@ -45,6 +45,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/akhand1203/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akhand1203/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/akhand1203/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/akhand1203/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/akhand1203/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -129,6 +130,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/akhand1203/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/akhand1203/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhand1203/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -140,6 +142,7 @@
 | [0056-merge-intervals](https://github.com/akhand1203/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/akhand1203/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/akhand1203/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -175,6 +178,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akhand1203/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/akhand1203/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhand1203/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/akhand1203/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/akhand1203/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -200,6 +204,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -666,4 +671,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/akhand1203/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
