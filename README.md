@@ -301,6 +301,7 @@
 | [0509-fibonacci-number](https://github.com/akhand1203/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/akhand1203/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akhand1203/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Recursion
@@ -412,6 +413,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +443,7 @@
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +476,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -715,4 +719,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhand1203/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
