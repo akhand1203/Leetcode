@@ -196,6 +196,7 @@
 | [0567-permutation-in-string](https://github.com/akhand1203/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -406,6 +407,7 @@
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
@@ -434,6 +436,7 @@
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -463,6 +466,7 @@
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -480,6 +484,7 @@
 | [0226-invert-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
