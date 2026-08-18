@@ -402,6 +402,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -428,6 +429,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -455,6 +457,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -688,4 +691,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
