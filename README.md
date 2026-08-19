@@ -150,6 +150,7 @@
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/akhand1203/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
 ## Bucket Sort
@@ -417,6 +419,7 @@
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -451,6 +454,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -488,6 +492,7 @@
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -509,6 +514,7 @@
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search Tree
