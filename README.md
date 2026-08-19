@@ -408,6 +408,7 @@
 | [0437-path-sum-iii](https://github.com/akhand1203/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -439,6 +440,7 @@
 | [0437-path-sum-iii](https://github.com/akhand1203/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -471,6 +473,7 @@
 | [0437-path-sum-iii](https://github.com/akhand1203/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/akhand1203/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -490,6 +493,7 @@
 | [0130-surrounded-regions](https://github.com/akhand1203/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/akhand1203/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
