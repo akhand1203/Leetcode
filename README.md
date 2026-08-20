@@ -202,6 +202,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -422,6 +423,7 @@
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +460,7 @@
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +500,7 @@
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,6 +525,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/akhand1203/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -747,4 +752,13 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhand1203/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 <!---LeetCode Topics End-->
