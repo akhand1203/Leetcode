@@ -95,6 +95,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/akhand1203/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
