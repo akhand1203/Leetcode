@@ -94,6 +94,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/akhand1203/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/akhand1203/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,6 +480,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +527,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +566,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
