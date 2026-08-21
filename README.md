@@ -317,6 +317,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akhand1203/Leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -441,6 +442,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -480,6 +482,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -527,6 +530,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -566,6 +570,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/akhand1203/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -786,6 +791,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhand1203/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/akhand1203/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
