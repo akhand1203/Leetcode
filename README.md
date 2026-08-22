@@ -369,6 +369,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhand1203/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/akhand1203/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/akhand1203/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/akhand1203/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -421,6 +422,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/akhand1203/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/akhand1203/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -513,6 +515,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/akhand1203/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/akhand1203/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -571,6 +574,7 @@
 | [0098-validate-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhand1203/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -735,6 +739,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/akhand1203/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/akhand1203/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/akhand1203/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -809,4 +814,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
