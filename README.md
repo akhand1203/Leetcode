@@ -79,6 +79,7 @@
 | [0875-koko-eating-bananas](https://github.com/akhand1203/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/akhand1203/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/akhand1203/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/akhand1203/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akhand1203/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -158,6 +159,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/akhand1203/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/akhand1203/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -623,6 +625,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/akhand1203/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/akhand1203/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/akhand1203/Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhand1203/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
