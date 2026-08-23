@@ -155,6 +155,7 @@
 | [0148-sort-list](https://github.com/akhand1203/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/akhand1203/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -171,6 +172,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/akhand1203/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhand1203/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/akhand1203/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/akhand1203/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -625,6 +627,7 @@
 | [0234-palindrome-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/akhand1203/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/akhand1203/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/akhand1203/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0321-create-maximum-number](https://github.com/akhand1203/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/akhand1203/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/akhand1203/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -758,6 +761,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/akhand1203/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/akhand1203/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/akhand1203/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0707-design-linked-list](https://github.com/akhand1203/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/akhand1203/Leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -765,6 +769,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/akhand1203/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/akhand1203/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
