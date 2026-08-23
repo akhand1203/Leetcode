@@ -70,6 +70,7 @@
 | [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/akhand1203/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/akhand1203/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/akhand1203/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/akhand1203/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -158,6 +159,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/akhand1203/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -173,6 +175,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhand1203/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/akhand1203/Leetcode/tree/main/0502-ipo/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -208,6 +211,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/akhand1203/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/akhand1203/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhand1203/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akhand1203/Leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -223,12 +227,14 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/akhand1203/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akhand1203/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/akhand1203/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## String
@@ -258,6 +264,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akhand1203/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/akhand1203/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/akhand1203/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/akhand1203/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -827,4 +834,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/akhand1203/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
