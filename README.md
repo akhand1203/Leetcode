@@ -97,6 +97,7 @@
 | [1314-matrix-block-sum](https://github.com/akhand1203/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/akhand1203/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/akhand1203/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akhand1203/Leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/akhand1203/Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -654,6 +655,7 @@
 | [0130-surrounded-regions](https://github.com/akhand1203/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/akhand1203/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -692,6 +694,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/akhand1203/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -851,4 +854,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/akhand1203/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/akhand1203/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
