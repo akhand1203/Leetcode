@@ -33,6 +33,7 @@
 | [0039-combination-sum](https://github.com/akhand1203/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/akhand1203/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/akhand1203/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/akhand1203/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/akhand1203/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/akhand1203/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akhand1203/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -379,6 +380,7 @@
 | [0022-generate-parentheses](https://github.com/akhand1203/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/akhand1203/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/akhand1203/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/akhand1203/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/akhand1203/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/akhand1203/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/akhand1203/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
