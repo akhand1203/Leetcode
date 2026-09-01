@@ -306,6 +306,7 @@
 | [0767-reorganize-string](https://github.com/akhand1203/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhand1203/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhand1203/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/akhand1203/Leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +327,7 @@
 | [0523-continuous-subarray-sum](https://github.com/akhand1203/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhand1203/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akhand1203/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/akhand1203/Leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
