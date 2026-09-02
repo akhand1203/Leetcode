@@ -176,6 +176,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/akhand1203/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akhand1203/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/akhand1203/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/akhand1203/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/akhand1203/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akhand1203/Leetcode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/akhand1203/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@
 | [1426-maximum-number-of-balloons](https://github.com/akhand1203/Leetcode/tree/main/1426-maximum-number-of-balloons/) | Easy |
 | [1544-make-the-string-great](https://github.com/akhand1203/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/akhand1203/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/akhand1203/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
